@@ -35,6 +35,114 @@
       "createDate": "2024-03-20T19:00:00.000Z",
       "visible": true,
       "id": 4
+    },
+    {
+      "model": "Mac",
+      "releaseYear": "2021-12-31T19:00:00.000Z",
+      "category": "laptop",
+      "price": "1400",
+      "createDate": "2024-03-20T19:00:00.000Z",
+      "visible": true,
+      "id": 5
+    },
+    {
+      "model": "Iphone 13",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Смартфоны",
+      "price": "700",
+      "createDate": "2024-03-21T19:00:00.000Z",
+      "visible": true,
+      "id": 6
+    },
+    {
+      "model": "Xiaomi for new",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Смартфоны",
+      "price": "1300",
+      "createDate": "2024-03-21T19:00:00.000Z",
+      "visible": false,
+      "id": 7
+    },
+    {
+      "model": "Ipad 9.0 pro",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Планшеты",
+      "price": "399",
+      "createDate": "2024-03-20T19:00:00.000Z",
+      "visible": true,
+      "id": 8
+    },
+    {
+      "model": "Mac",
+      "releaseYear": "2021-12-31T19:00:00.000Z",
+      "category": "laptop",
+      "price": "1400",
+      "createDate": "2024-03-20T19:00:00.000Z",
+      "visible": true,
+      "id": 9
+    },
+    {
+      "model": "Iphone 13",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Смартфоны",
+      "price": "700",
+      "createDate": "2024-03-21T19:00:00.000Z",
+      "visible": true,
+      "id": 10
+    },
+    {
+      "model": "Xiaomi for new",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Смартфоны",
+      "price": "1300",
+      "createDate": "2024-03-21T19:00:00.000Z",
+      "visible": false,
+      "id": 11
+    },
+    {
+      "model": "Ipad 9.0 pro",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Планшеты",
+      "price": "399",
+      "createDate": "2024-03-20T19:00:00.000Z",
+      "visible": true,
+      "id": 12
+    },
+    {
+      "model": "Mac",
+      "releaseYear": "2021-12-31T19:00:00.000Z",
+      "category": "laptop",
+      "price": "1400",
+      "createDate": "2024-03-20T19:00:00.000Z",
+      "visible": true,
+      "id": 13
+    },
+    {
+      "model": "Iphone 13",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Смартфоны",
+      "price": "700",
+      "createDate": "2024-03-21T19:00:00.000Z",
+      "visible": true,
+      "id": 14
+    },
+    {
+      "model": "Xiaomi for new",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Смартфоны",
+      "price": "1300",
+      "createDate": "2024-03-21T19:00:00.000Z",
+      "visible": false,
+      "id": 15
+    },
+    {
+      "model": "Ipad 9.0 pro",
+      "releaseYear": "2020-12-31T19:00:00.000Z",
+      "category": "Планшеты",
+      "price": "399",
+      "createDate": "2024-03-20T19:00:00.000Z",
+      "visible": true,
+      "id": 16
     }
   ],
   "categories": ["Смартфоны", "Планшеты", "laptop"]
